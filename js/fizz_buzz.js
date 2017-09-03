@@ -1,4 +1,4 @@
-// var number= prompt('please enter a integer');
+var number= prompt('please enter a integer');
 var num = number ;
 
 function Calc() {
