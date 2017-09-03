@@ -3,12 +3,12 @@ var num = number ;
 
 function Calc() {
     if (num % 15 === 0) {
-      return ('Fizz Buzz');
+      alert ('Fizz Buzz');
     } else if (num % 3 === 0) {
-      return('Fizz');
+      alert ('Fizz');
     } else if (num % 5 === 0) {
-      return('Buzz');
+      alert('Buzz');
     } else {
-      return(num);
+      alert(num);
     }
 }
